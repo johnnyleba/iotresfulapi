@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.sk.iotresfulapi.\
+    config.TestContainersSpringContextCustomizerFactory,com.sk.iotresfulapi.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.sk.iotresfulapi.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
